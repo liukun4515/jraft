@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dmprinter/dmprinter.iml" filepath="$PROJECT_DIR$/dmprinter/dmprinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/jraft-core.iml" filepath="$PROJECT_DIR$/core/jraft-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exts/jraft-exts.iml" filepath="$PROJECT_DIR$/exts/jraft-exts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jraft-root.iml" filepath="$PROJECT_DIR$/jraft-root.iml" />
+    </modules>
+  </component>
+</project>

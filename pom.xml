@@ -12,10 +12,7 @@
  <modules>
   <module>core</module>
   <module>exts</module>
-  <module>dmprinter</module>
- </modules>
-
- <dependencyManagement>
+  <module>dmprinter</module> </modules> <dependencyManagement>
   <dependencies>
    <dependency>
     <groupId>junit</groupId>
